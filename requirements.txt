@@ -1,2 +1,5 @@
 streamlit
-openai
+langchain_google_genai
+langchain
+speech_recognition
+pyttsx3
