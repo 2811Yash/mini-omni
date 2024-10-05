@@ -3,3 +3,4 @@ langchain_google_genai
 langchain
 SpeechRecognition
 pyttsx3
+dotenv
