@@ -1,5 +1,5 @@
 streamlit
 langchain_google_genai
 langchain
-speech_recognition
+SpeechRecognition
 pyttsx3
